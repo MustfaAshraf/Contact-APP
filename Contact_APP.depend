@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1678379716 source:c:\users\user\onedrive\desktop\my way\contact_app\main.cpp
+	<iostream>
+	"phoneNumber.h"
+	"Contact.h"
+	"ContactBook.h"
+
+1678374964 source:c:\users\user\onedrive\desktop\my way\contact_app\src\phonenumber.cpp
+	"phoneNumber.h"
+	<iostream>
+	<string>
+
+1678375414 c:\users\user\onedrive\desktop\my way\contact_app\include\phonenumber.h
+	<iostream>
+	<string>
+
+1678379096 source:c:\users\user\onedrive\desktop\my way\contact_app\src\contact.cpp
+	"Contact.h"
+	"phoneNumber.h"
+	<iostream>
+
+1678375315 c:\users\user\onedrive\desktop\my way\contact_app\include\contact.h
+	"phoneNumber.h"
+	<string>
+
+1678377622 c:\users\user\onedrive\desktop\my way\contact_app\include\contactbook.h
+	<iostream>
+	"phoneNumber.h"
+	"Contact.h"
+
+1678378050 source:c:\users\user\onedrive\desktop\my way\contact_app\src\contactbook.cpp
+	"ContactBook.h"
+	"Contact.h"
+	"phoneNumber.h"
+	<iostream>
+
